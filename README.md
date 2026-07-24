@@ -18,7 +18,7 @@ examining how each converges to the exact answer
 
 ## Results
 - All three methods agree closely for standard inputs as shown in this plot for varying strike price with - stock price: 100, Time to expiry: 10 years, risk free rate: 5%, volatility: 20% 
-![alt text](plots/Method_Comparison.png)
+![Comparison plot](plots/method_comparison.png)
 
 - Monte Carlo convergence: error shrinks as N increases
 - Finite-difference convergence: error shrinks as the grid is refined, 
